@@ -1,6 +1,6 @@
 # Multiple Sclerosis Diagnosis
 ## Description
-Small application to query a prolog program to diagnose patients with possible Multiple Sclerosis. Its made with Vue 3, TailwindCSS and Prolog. It should be clarified that the conclusions of the program have no medical validation of any kind. 
+Small application to query a PROLOG program to diagnose patients with possible Multiple Sclerosis. Its made with Vue 3, TailwindCSS and Prolog. It should be clarified that the conclusions of the program have no medical validation of any kind. 
 
 ## Build Setup
 ```bash
